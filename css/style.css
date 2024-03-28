@@ -1,3 +1,46 @@
 h3{
-    color: #11ab53;
+    color: #11ab82;
+    text-align: center;
+    margin: 0px;
+    margin-bottom: 14px;
+}
+table{
+    border-collapse: collapse;
+width: 35%;
+    border: 3px;
+    border-bottom: 2px;
+    border-style: solid;
+    margin: auto;
+}
+
+td,th {
+   
+    border-color: black;
+    border: 2px solid;
+
+}
+.purple{
+    color: rgb(184, 56, 184);
+    border-color: black;
+}
+.red{
+    color: red;
+    border-color: black;
+}
+.blue{
+    background-color: rgb(229, 248, 255);
+}
+.bej{
+    background-color: rgb(255, 227, 214);
+}
+#center{
+    text-align: center;
+}
+#right{
+    text-align: right;
+}
+
+#sus{
+margin-top: 0px;
+padding-top: 0px;
 }
